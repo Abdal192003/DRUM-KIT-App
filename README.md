@@ -1,2 +1,3 @@
 # DRUM-KIT-App
-This fun drum kit app .
+This fun drum kit app .Make Ugly sounds while in free time
+
